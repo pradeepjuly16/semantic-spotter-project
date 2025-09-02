@@ -59,7 +59,7 @@ Ensure you have the following installed:
 git clone https://github.com/pradeepjuly16/semantic-spotter-project.git
 
 2. Navigate to the project directory:
-cd Semantic_Spotter_AI_Project_GenAI_UpGrad_IIITB
+cd semantic-spotter-project
 
 3. Install the required dependencies:
 pip install -r requirements.txt
